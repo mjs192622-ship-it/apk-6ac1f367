@@ -1,0 +1,39 @@
+{
+    "project_info": {
+        "project_number": "503087758624",
+        "project_id": "loanflow-lab",
+        "storage_bucket": "loanflow-lab.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:503087758624:android:9528b63833cf721c2ceb45",
+                "android_client_info": {
+                    "package_name": "com.loanflow.app"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "503087758624-7h5rb97puo4d6e7ltl72qjut8pluahmo.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyBN6z-zzciL60k0wE9d9oqVIDZYBzSZMss"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "503087758624-7h5rb97puo4d6e7ltl72qjut8pluahmo.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
